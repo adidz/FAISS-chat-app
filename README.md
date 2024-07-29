@@ -13,7 +13,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/chat-with-pdfs.git
+git clone 
 cd chat-with-pdfs
 Create a virtual environment:
 
